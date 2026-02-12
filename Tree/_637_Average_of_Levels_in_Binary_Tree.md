@@ -31,7 +31,7 @@ The number of nodes in the tree is in the range [1, 104].
 
 
 ## Approach:
-
+- Finding the sum of all elements on the same level.
 
 ## Code
 
